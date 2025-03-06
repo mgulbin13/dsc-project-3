@@ -1,0 +1,201 @@
+message_id,message_text,spam_label
+1,"URGENT: Your mobile number has won $500,000 in our prize draw! Call now to claim: +1-555-123-4567. Don't miss this chance!",1
+2,"CONGRATULATIONS! You've been selected for a free iPhone 14! Click here to claim: www.free-iphone-claim.xyz",1
+3,"Your package delivery #8742 is pending. Update delivery address within 24hrs: bit.ly/pkg-update",1
+4,"NETFLIX: Your account has been suspended. Update your payment info: netflx-account-verify.com",1
+5,"50% OFF at Fashion World! Limited time offer. Shop now: fw-sales.site/discount",1
+6,"Your bank account has been compromised. Call security team now: 888-555-9876",1
+7,"Dear customer, your Apple ID has been locked for security reasons. Verify identity: secure-apple-id.com",1
+8,"BREAKING: New government regulation allows citizens to clear ALL debt legally. Find out how: debt-freedom.xyz",1
+9,"Hi this is Jenny from dating service. I saw your profile and want to meet. Text me: +1-555-765-4321",1
+10,"FINAL NOTICE: Your car warranty is about to expire. Last chance to extend coverage. Call: 800-555-1234",1
+11,"ALERT: Unusual activity detected in your account. Verify transactions: secure-bank-verify.com",1
+12,"Congratulations! You've been pre-approved for a $50,000 loan with low interest. Apply now: ez-loan-apply.com",1
+13,"Your utility bill payment failed. Service will be disconnected in 24 hours. Update payment: utilitypay-secure.com",1
+14,"You have 1 unread message from your secret admirer. View now: date-match.xyz/message",1
+15,"ATTENTION: Your Social Security Number has been suspended due to suspicious activity. Call: 866-555-4321",1
+16,"Your prescription is ready for pickup. Get 70% discount with this code: RX7042. Details: meds-discount.site",1
+17,"You have won a $1,000 Walmart gift card. Claim now: walmart-gift.xyz/claim",1
+18,"This is your carrier: Your phone bill is past due. Avoid service interruption: mobilepay-now.com",1
+19,"URGENT Tax Refund: You are eligible for $1,249.50 tax refund. Submit claim: tax-refund-gov.xyz",1
+20,"Your order #43298 has been shipped. Track delivery status: amaz0n-tracking.site",1
+21,"Investment Alert: This penny stock is set to explode 500% next week! Buy now: stock-goldmine.xyz",1
+22,"Your account access will be terminated. Verify identity: secure-account-verify.com",1
+23,"FINAL WARNING: Your vehicle is showing in our system as uninsured. Avoid penalties: auto-insure-now.site",1
+24,"IMPORTANT: Your recent payment was declined. Update payment method: paypal-secure-update.com",1
+25,"Congratulations! You've been selected for our exclusive survey. Complete for $90 reward: survey-rewards.xyz",1
+26,"ATTENTION CUSTOMER: Your internet service will be disconnected. Pay now: internet-billing.site",1
+27,"Your CV was found in our database. $95k position available. Apply now: career-opportunity.xyz",1
+28,"COURT NOTICE: You are scheduled to appear. Case #CR7231. Details: court-notice.site",1
+29,"Your phone has 3 virus! Click to scan and remove: virus-removal.xyz",1
+30,"FREE: Get your credit score and report now! Limited offer: free-credit-check.site",1
+31,"WINNER ALERT: You've been selected to receive a $250 Amazon gift card. Claim now: amazon-rewards.site",1
+32,"URGENT: Your credit card has been charged $499. If unauthorized call: +1-888-555-3214",1
+33,"Your Apple iCloud account will be deleted in 24 hours. Verify now: secure-icloud-verify.com",1
+34,"ATTENTION: We've been trying to reach you about your car's extended warranty. Last chance: 800-555-9876",1
+35,"Congratulations! You qualify for student loan forgiveness. Apply here: loan-forgive-gov.xyz",1
+36,"SECURITY ALERT: Suspicious sign-in attempt on your Google account. Verify now: google-secure-verify.com",1
+37,"Your parcel #UK45692 is on hold. Confirm delivery address: royal-mail-delivery.site",1
+38,"50% OFF EVERYTHING at Nike! Limited time offer: nike-special-deals.xyz",1
+39,"ACTION REQUIRED: Your PayPal account has been limited. Update info: paypal-account-service.com",1
+40,"URGENT: Your electricity will be disconnected tonight. Pay now: utility-pay-online.site",1
+41,"Your Bitcoin wallet has been credited with 0.5 BTC. Confirm receipt: bitcoin-wallet-verify.xyz",1
+42,"FINAL NOTICE: Your tax records are out of date. Avoid penalties: irs-tax-update.site",1
+43,"You've been selected for a $50 Starbucks gift card! Claim now: starbucks-rewards.xyz",1
+44,"Your Instagram account will be permanently deleted. Verify ownership: instagram-verify.site",1
+45,"URGENT: Your phone service will be suspended. Update billing info: mobile-service-update.com",1
+46,"Congratulations! You're prequalified for a new credit card with $10,000 limit: premier-credit-offer.site",1
+47,"Your flight reservation #AX78542 has been changed. Confirm details: airline-update.xyz",1
+48,"LAST CHANCE: Claim your free laptop from our annual giveaway: free-laptop-giveaway.site",1
+49,"Your Facebook account has been reported. Verify to avoid suspension: facebook-security-team.xyz",1
+50,"Congratulations! You've won 2nd prize in Coca-Cola sweepstakes. Claim $5,000: coke-prize.site",1
+51,"URGENT: Your insurance policy is about to lapse. Renew now: insurance-policy-renew.xyz",1
+52,"Your Microsoft account has been compromised. Reset password: microsoft-secure-reset.com",1
+53,"SPECIAL OFFER: Buy one iPhone 15, get one free. Limited stock: apple-promotion.site",1
+54,"Your dating profile has 5 new matches waiting. View now: love-match-dating.xyz",1
+55,"ATTENTION: Your computer may be infected with malware. Scan now: virus-protection.site",1
+56,"Great news! Your application for $25,000 loan is pre-approved: quick-loan-approval.xyz",1
+57,"Your vehicle registration is expiring. Renew online: dmv-registration-renew.site",1
+58,"ALERT: Unusual login attempt on your bank account. Verify now: bank-security-alert.xyz",1
+59,"You've been selected to test & keep a new iPhone 14! Click here: product-testers-needed.site",1
+60,"URGENT: Your health insurance claim was rejected. Update info: health-insurance-claims.xyz",1
+61,"Your Netflix subscription will be canceled. Update payment method: netflix-billing-update.site",1
+62,"ATTENTION: Your Social Security benefits are on hold. Verify identity: ssa-gov-verify.xyz",1
+63,"Congratulations! You've won tickets to Disney World in our giveaway: disney-ticket-winner.site",1
+64,"Your phone number will be disconnected in 24 hours. Pay now: mobile-service-billing.xyz",1
+65,"FINAL WARNING: Your internet access will be restricted. Verify account: internet-service-verify.site",1
+66,"Your Amazon order #97531 has been delayed. Track here: amazon-orders-tracking.xyz",1
+67,"FREE COVID relief money from the government! Claim $2,500: covid-relief-payment.site",1
+68,"Your webcam has been activated remotely. Pay $200 in Bitcoin: privacy-protection.xyz",1
+69,"URGENT: Your Mastercard has been temporarily suspended. Call now: 888-555-8765",1
+70,"Congratulations! You've been selected for iPhone 15 testing program. Apply: apple-product-testers.site",1
+71,"Your electricity bill is overdue. Service will be disconnected. Pay now: utility-service-pay.xyz",1
+72,"ALERT: Your Gmail account will be permanently deleted. Verify now: gmail-account-verify.site",1
+73,"Your tax refund of $842.19 is ready to claim. Verify identity: tax-refund-claim.xyz",1
+74,"IMPORTANT: Your job application has been accepted. Next steps: career-opportunity-next.site",1
+75,"Your Costco membership has expired. Renew with 50% discount: costco-member-renew.xyz",1
+76,"LOTTERY WINNER: Your email has won $750,000 in Microsoft sweepstakes: ms-lottery-winner.site",1
+77,"Your photos and videos have been backed up to unknown server. Check now: privacy-breach-check.xyz",1
+78,"URGENT: Your child's school has an emergency. Call immediately: 888-555-4567",1
+79,"Congratulations! Your phone number has won $10,000. Claim prize: lucky-number-prize.site",1
+80,"Your password for online banking has been reset. Verify now: bank-password-reset.xyz",1
+81,"SECURITY ALERT: Your computer has been locked. Call tech support: 888-555-9876",1
+82,"Your UPS delivery #UP78952 requires $3.99 shipping fee. Pay now: ups-delivery-fee.site",1
+83,"Special offer: Get 80% off Ray-Ban sunglasses. Shop now: designer-sunglasses-sale.xyz",1
+84,"URGENT: Your Medicare benefits are changing. Update info: medicare-benefits-update.site",1
+85,"Your Instagram followers have dropped by 75%. Recover followers: instagram-followers-boost.xyz",1
+86,"Your Samsung warranty is expiring. Extend coverage now: samsung-warranty-extend.site",1
+87,"ATTENTION: Your property tax is overdue. Pay to avoid lien: property-tax-payment.xyz",1
+88,"Your WhatsApp will be deactivated. Verify account: whatsapp-verify-account.site",1
+89,"Congratulations! You qualify for free dental implants: dental-implants-program.xyz",1
+90,"Your Apple device has been hacked. Scan now: apple-security-scan.site",1
+91,"FINAL NOTICE: Your drivers license points require review. Verify: dmv-license-review.xyz",1
+92,"Your stimulus check #3 is waiting. Claim now: stimulus-payment-claim.site",1
+93,"Attention Walmart shopper: You've been selected for $100 gift card: walmart-feedback.xyz",1
+94,"Your phone contract is eligible for free upgrade. Claim now: phone-upgrade-free.site",1
+95,"URGENT: Your child's school attendance record needs verification: school-attendance-verify.xyz",1
+96,"Your Instagram account has reached limit. Verify to continue: instagram-limit-remove.site",1
+97,"Congratulations! You've won a cruise to the Bahamas! Claim tickets: cruise-winner.xyz",1
+98,"Your Southwest Airlines miles are expiring. Claim now: southwest-miles-redeem.site",1
+99,"SECURITY ALERT: Your device has been infected with spyware: security-scan-device.xyz",1
+100,"Your prescription is ready with special 80% discount: pharmacy-discount-rx.site",1
+101,"URGENT: Your home warranty is expiring. Last chance to renew: home-warranty-renew.xyz",1
+102,"Your child's school lunch account is negative. Add funds: school-lunch-payment.site",1
+103,"Congratulations! You've been selected for $50 Target gift card: target-survey-reward.xyz",1
+104,"Your YouTube channel will be deleted. Verify ownership: youtube-verify-channel.site",1
+105,"FINAL NOTICE: Your water service will be disconnected: water-utility-payment.xyz",1
+106,"Your Facebook account needs security update. Verify now: facebook-security-update.site",1
+107,"ALERT: Your computer has 39 viruses. Clean now: virus-removal-tool.xyz",1
+108,"Your retirement account shows suspicious activity. Verify: retirement-account-verify.site",1
+109,"Congratulations! You qualify for free hearing aids: hearing-aid-program.xyz",1
+110,"Your Uber account has been temporarily suspended. Verify: uber-account-verify.site",1
+111,"URGENT: Your pet's microchip registration is expiring: pet-microchip-renew.xyz",1
+112,"Your property taxes are overdue. Pay now to avoid foreclosure: tax-payment-urgent.site",1
+113,"Special offer: Get 75% off luxury watches. Shop now: luxury-watch-deals.xyz",1
+114,"Your power will be disconnected in 3 hours. Pay now: power-company-payment.site",1
+115,"ATTENTION: Your Google Drive storage is full. Upgrade now: google-storage-upgrade.xyz",1
+116,"Your USPS package #US78521 is held. Pay customs fee: usps-customs-payment.site",1
+117,"Congratulations! You've won Home Depot $500 gift card: homedepot-winner.xyz",1
+118,"SECURITY ALERT: Your router has been compromised. Reset now: wifi-security-reset.site",1
+119,"Your credit score has dropped 95 points. Check now: credit-score-alert.xyz",1
+120,"Your McAfee subscription has expired. Renew with 70% discount: mcafee-renew.site",1
+121,"URGENT: Your vehicle recall requires immediate attention: vehicle-recall-notice.xyz",1
+122,"Your Disney+ subscription will be canceled. Update payment: disney-payment-update.site",1
+123,"Congratulations! You've been selected for a $100 Visa gift card: visa-reward-card.xyz",1
+124,"Your child's school has reported absence. Verify attendance: school-absence-verify.site",1
+125,"ATTENTION: Your home security system is offline. Verify now: security-system-alert.xyz",1
+126,"Your Spotify Premium will be canceled. Update payment: spotify-billing-update.site",1
+127,"Your gas utility service requires immediate payment: gas-utility-payment.xyz",1
+128,"LAST CHANCE: Accept your pre-approved credit card offer: credit-card-approval.site",1
+129,"Your cell phone contract qualifies for free upgrade: phone-contract-upgrade.xyz",1
+130,"URGENT: Your medical test results require attention: medical-results-urgent.site",1
+131,"Your Twitter account has violated community standards: twitter-verify-account.xyz",1
+132,"Congratulations! You've won Lowes $250 gift card: lowes-winner-claim.site",1
+133,"Your FedEx package #FX45231 requires delivery fee: fedex-delivery-payment.xyz",1
+134,"SECURITY ALERT: Unknown login attempt on your account: account-security-verify.site",1
+135,"Your homeowners insurance is being canceled: insurance-reinstate.xyz",1
+136,"Your child's tuition payment is past due: school-tuition-payment.site",1
+137,"FINAL NOTICE: Your auto insurance claim denied: insurance-claim-appeal.xyz",1
+138,"Your American Airlines miles are expiring soon: aa-miles-redeem.site",1
+139,"Congratulations! You've won $1,000 Best Buy gift card: bestbuy-winner.xyz",1
+140,"URGENT: Your voter registration needs verification: voter-registration-verify.site",1
+141,"Your email storage is full. Upgrade now: email-storage-upgrade.xyz",1
+142,"Your AT&T service will be disconnected today: att-service-payment.site",1
+143,"SECURITY ALERT: Your Apple ID has been used on new device: apple-device-verify.xyz",1
+144,"Your Medicare coverage has changed. Review now: medicare-coverage-review.site",1
+145,"Congratulations! You qualify for free solar panels: solar-panel-program.xyz",1
+146,"Your Venmo account has suspicious activity: venmo-account-verify.site",1
+147,"URGENT: Your property showing unusual activity: property-security-alert.xyz",1
+148,"Your DoorDash account needs payment update: doordash-payment-update.site",1
+149,"Your Costco photo order is ready for pickup: costco-photo-scam.xyz",1
+150,"ATTENTION: Your child's school lunch balance is negative: school-lunch-payment.site",1
+151,"Your TikTok account will be permanently deleted: tiktok-verify-account.xyz",1
+152,"Congratulations! You've won a 65\" Samsung TV: samsung-prize-winner.site",1
+153,"Your password was found in data breach. Reset now: password-security-reset.xyz",1
+154,"URGENT: Your home warranty claim requires attention: warranty-claim-action.site",1
+155,"Your prescription has been denied by insurance: prescription-coverage-alert.xyz",1
+156,"Your Hulu subscription payment failed. Update now: hulu-payment-update.site",1
+157,"FINAL NOTICE: Your water heater warranty expiring: water-heater-warranty.xyz",1
+158,"Your T-Mobile account shows unusual charges: tmobile-account-verify.site",1
+159,"Congratulations! You've won $500 McDonald's gift card: mcdonalds-winner.xyz",1
+160,"SECURITY ALERT: Your webcam has been accessed: privacy-breach-alert.site",1
+161,"Your Amazon Prime membership will be canceled: amazon-prime-renewal.xyz",1
+162,"Your child's school has emergency situation: school-emergency-alert.site",1
+163,"URGENT: Your health insurance premium is past due: health-insurance-payment.xyz",1
+164,"Your Instagram account has violated guidelines: instagram-violation-appeal.site",1
+165,"Congratulations! You've been selected for free cruise: cruise-vacation-winner.xyz",1
+166,"Your home internet speed can be doubled free: internet-speed-upgrade.site",1
+167,"ATTENTION: Your vehicle's GPS shows unauthorized movement: vehicle-security-alert.xyz",1
+168,"Your Microsoft Office subscription is expiring: office-subscription-renew.site",1
+169,"Your rental payment is overdue. Eviction notice pending: rental-payment-urgent.xyz",1
+170,"FINAL NOTICE: Your credit card interest rate increase: credit-card-rate-appeal.site",1
+171,"Your Facebook account has been reported 5 times: facebook-account-verify.xyz",1
+172,"Congratulations! You qualify for debt forgiveness program: debt-relief-program.site",1
+173,"Your Wells Fargo account requires security update: wellsfargo-security-update.xyz",1
+174,"URGENT: Your home has been selected for free security system: home-security-offer.site",1
+175,"Your child's school bus route has changed: school-bus-route-update.xyz",1
+176,"Your Xbox Live account has been suspended: xbox-account-verify.site",1
+177,"SECURITY ALERT: Your Wi-Fi network has been compromised: wifi-security-breach.xyz",1
+178,"Your property tax assessment has increased: property-tax-appeal.site",1
+179,"Congratulations! You've won a $500 IKEA gift card: ikea-winner-claim.xyz",1
+180,"Your energy bill shows unusual consumption: energy-usage-alert.site",1
+181,"URGENT: Your dental insurance claim was denied: dental-claim-appeal.xyz",1
+182,"Your Snapchat account will be permanently deleted: snapchat-verify-account.site",1
+183,"Your Amazon order #78521 has been canceled: amazon-order-issue.xyz",1
+184,"FINAL NOTICE: Your auto registration is expired: vehicle-registration-renew.site",1
+185,"Your Smart TV has been infected with malware: smart-tv-security-scan.xyz",1
+186,"Congratulations! You qualify for free windows replacement: windows-replacement-program.site",1
+187,"Your child's tutoring account needs payment: tutoring-payment-update.xyz",1
+188,"URGENT: Your Facebook marketplace transaction has issues: facebook-transaction-issue.site",1
+189,"Your Bank of America account has been limited: bofa-account-verify.xyz",1
+190,"Your phone line will be disconnected today: phone-service-payment.site",1
+191,"SECURITY ALERT: Your identity has been compromised: identity-protection-service.xyz",1
+192,"Your homeowners association dues are past due: hoa-payment-urgent.site",1
+193,"Congratulations! You've won Chick-fil-A gift card: chickfila-winner.xyz",1
+194,"Your pet's medication is ready for pickup: pet-medication-discount.site",1
+195,"URGENT: Your mail delivery preference has changed: mail-delivery-update.xyz",1
+196,"Your Etsy account shows suspicious login: etsy-account-verify.site",1
+197,"Your internet speed has been reduced: internet-speed-restore.xyz",1
+198,"FINAL NOTICE: Your gym membership payment failed: gym-membership-payment.site",1
+199,"Your home may qualify for reduced property tax: property-tax-reduction.xyz",1
+200,"Congratulations! You've been selected for free roof inspection: roof-inspection-offer.site",1
