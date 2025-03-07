@@ -2,7 +2,7 @@
 
 A machine learning project to detect and filter spam text messages while minimizing false positives.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
 - [Data Preprocessing](#data-preprocessing)
